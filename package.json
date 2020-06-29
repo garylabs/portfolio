@@ -14,7 +14,7 @@
 	"keywords": [],
 	"author": "Gurveer Singh",
 	"license": "ISC",
-	"homepage": "https://github.com/garylabs/portfolio/src/index.html",
+	"homepage": "./src/index.html",
 	"devDependencies": {
 		"clean-webpack-plugin": "^3.0.0",
 		"css-loader": "^3.4.2",
